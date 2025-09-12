@@ -37,23 +37,6 @@ http://localhost:3000
 
 http://localhost:3000/docs
 
-📂 Estrutura do Projeto
-📦 police-department-api
-│── server.js
-│── routes/
-│   ├── agentesRoutes.js
-│   └── casosRoutes.js
-│── controllers/
-│   ├── agentesController.js
-│   └── casosController.js
-│── repositories/
-│   ├── agentesRepository.js
-│   └── casosRepository.js
-│── docs/
-│   └── swagger.js
-│── utils/
-│   └── errorHandler.js
-
 
 ⚡ Back-end finalizado. O próximo passo é construir o front-end para integrar e visualizar todas as funcionalidades.
 
@@ -95,24 +78,6 @@ http://localhost:3000
 📑 API Docs:
 
 http://localhost:3000/docs
-
-📂 Project Structure
-📦 police-department-api
-│── server.js
-│── routes/
-│   ├── agentesRoutes.js
-│   └── casosRoutes.js
-│── controllers/
-│   ├── agentesController.js
-│   └── casosController.js
-│── repositories/
-│   ├── agentesRepository.js
-│   └── casosRepository.js
-│── docs/
-│   └── swagger.js
-│── utils/
-│   └── errorHandler.js
-
 
 ⚡ Back-end completed. Next step: build the front-end to integrate and display all features.
 
